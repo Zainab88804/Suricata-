@@ -10,8 +10,10 @@ This repository contains my Suricata Report, covering Intrusion Detection System
 ✅ Testing Suricata using Nmap & Metasploitable  
 ✅ Log Analysis & Threat Detection  
 
-## 📂 Download Report  
-📥 You can download the Suricata Report (PDF) from [here](SURICATA REPORT.pdf).  
+## 📂 View Report  
+📥 You can view the full Suricata Report (PDF) here:  
+🔗 [Suricata Report]()  
+
 
 ## 📢 About  
 Suricata is a powerful open-source network security tool that provides real-time traffic analysis and threat detection. This report covers its installation, configuration, and how to use custom rules to detect cyber threats.  
